@@ -22,7 +22,7 @@ def urlrandomvibor():
 vidosi = ['1.mp4',
           '2.mp4', '3.mp4']
 
-bot = telebot.TeleBot('5540934047:AAF0PjWfM0ONqyPEu-NcgSsDOgyFCj4_Dls')
+bot = telebot.TeleBot('ENTER BOT TOKEN')
 
 
 @bot.message_handler(commands=['start'])
